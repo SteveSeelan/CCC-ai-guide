@@ -1,0 +1,9 @@
+sys
+chromadb
+requests
+PyMuPDF
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-chroma
+sentence-transformers
