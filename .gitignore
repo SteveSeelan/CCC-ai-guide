@@ -194,3 +194,4 @@ cython_debug/
 .cursorindexingignore
 ccc-ai-env/
 chroma_db/
+.DS_Store
